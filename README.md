@@ -76,7 +76,7 @@ File name:
 
 Output:
 
-![0.0 + 0.67i](https://github.com/RealTimeChris/Julia-Set-Generator-CUDA/blob/master/Images/0.0%20+%200.67i.jpg?raw=true)
+![0.0 + 0.67i](https://github.com/RealTimeChris/Julia-Set-Generator-CUDA/blob/main/Images/0.0%20%2B%200.67i.jpg)
 
 <br>
 
